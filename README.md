@@ -1,0 +1,2 @@
+# rockpaperscissors
+In this programme a very popular game rockpaperscissors is created .It is a 2 player game in which one has to choose either of 'rock' ,'scissors' or 'paper'. Game starts with player 1 where he has to enter number and secret position the number at secret position is divided by 3 and remainder left is either rock,paper or scissor then 2nd player turn is where he repeats the same procedure . rock wins over scissors, paper wins over rock, and scissors win over paper and if both are same then it is a draw
